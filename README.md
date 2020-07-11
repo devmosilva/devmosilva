@@ -5,8 +5,7 @@
 
 ## Heey, Como vai você?  👋
 
-Meu nome é Matheus, sou estudante de Sistemas de informação. 
-atualmente estou fortalecendo meu conhecimento no fron-end e me apaixonando pelo back-end.
+Sou estudante de Sistemas de informação. Atualmente estou fortalecendo meus conhecimento no front-end e conhecendo um pouco mais sobre o back-end, buscando entender o funcionamento de toda uma aplicação.
 
 - ⚛ Techs: html, css, javascript, nodejs, react...
-- 📚 Estudando através do bootcamp da **Rocketseat**, do curso React Ninja com o **Fernando Daciuk**, Desenvolvimento Web com **Cod3r**, Javascript na **Origamid**
+
