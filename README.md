@@ -5,7 +5,7 @@
 
 ## Heey, Como vai você?  👋
 
-Sou estudante de Sistemas de informação. Atualmente estou fortalecendo meus conhecimento no front-end e conhecendo um pouco mais sobre o back-end, buscando entender o funcionamento de toda uma aplicação.
+Sou estudante de Sitemas de informação. amante de fotografia, e apaixonado por tecnologia.
 
 - ⚛ Techs: html, css, javascript, nodejs, react...
 
