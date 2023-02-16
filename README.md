@@ -5,8 +5,8 @@
 
 ## Heey, Como vai você?  👋
 
-Apaixonado por desenvolvimento de software, gosto de participar de imersão e eventos com foco em criação de novos projetos e sou um amante de fotografias. 
+Um desenvolvedor sempre buscando evolução continua, gosto de me desafiar e compartilhar todo meu conhecimento.
 
 
-- ⚛ Techs: html, css, javascript, nodejs, react , laravel, php...
+- ⚛ Techs: Javascript, Typescript, PHP, Laravel, Vue.js, React.
 
