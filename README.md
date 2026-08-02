@@ -53,28 +53,6 @@ Atuei em projetos críticos nos segmentos **automotivo**, **saúde (SaaS)** e **
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmosilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmosilva&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-![Snake animation](https://github.com/devmosilva/devmosilva/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
